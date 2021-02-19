@@ -1,4 +1,7 @@
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", TN
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Groups", TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
@@ -7,6 +10,24 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 
 #EXTINF:-1 tvg-id="108922" tvg-name="Canal 2 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-lNZ9Cc4kdY0/Xzgf6HFrZDI/AAAAAAAA4XI/I2DRdFu8uao3YAEAUhlLpLOVvco9P7B-wCK8BGAsYHg/s0/2020-08-15.png", Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", AMERICA TV
+https://www.youtube.com/watch?v=2Vyx4ee2Tss
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", C5N
+https://www.youtube.com/watch?v=7qV_WgFREig
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", A24N
+https://www.youtube.com/watch?v=wv_a0T5OtU4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", LA NACIÓN
+https://www.youtube.com/watch?v=Lnsp9CFTIh4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Groups", TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Groups", TV Publica
+https://www.youtube.com/watch?v=UTyLNwqDO90
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Terramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
