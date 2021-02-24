@@ -5,9 +5,6 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45089_Canal_26.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="100583" tvg-name="Canal 7 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", Canal 7 Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
 
@@ -74,14 +71,14 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="108905" tvg-name="Fenix" tvg-logo="https://lh3.googleusercontent.com/-fhoBObfmdBw/X1TJdJ96f9I/AAAAAAAA5Tg/3qjeTFvwEsYxbbbFQ8gxPJv-bI-MpVefwCK8BGAsYHg/s0/2020-09-06.jpg", Fenix
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="Groups", Canal Provincial | SD
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-id="130198" tvg-name="Radiocanal San Francisco" tvg-logo="https://lh3.googleusercontent.com/-4nSQWIqJj3A/YC5ejNLLxwI/AAAAAAABAL4/0G3IDGTMA5kKrJJyoZ3G8qZE8FObOsePACK8BGAsYHg/s0/2021-02-18.png", Radiocanal San Francisco
 https://coopmorteros.online/radiocanal/canal01.m3u8?PlaylistM3UCL
-
-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
-https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="120480" tvg-name="Play Television" tvg-logo="https://lh3.googleusercontent.com/-Xz3nAl2_28I/X_HzxCzqnwI/AAAAAAAA82Y/8xZ9Zu243YUdfYEGkUkiO2HF-PP-CDKawCK8BGAsYHg/s0/2021-01-03.jpg", Play Television
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8?PlaylistM3UCL
