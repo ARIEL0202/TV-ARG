@@ -14,6 +14,9 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", AMERICA TV
 https://www.youtube.com/watch?v=2Vyx4ee2Tss
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="ARGENTINA",America TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", C5N
 https://www.youtube.com/watch?v=7qV_WgFREig
 
@@ -26,11 +29,14 @@ https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Groups", TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Terramia TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="Groups", Terramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV
 https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-o3noqKpbivw/XjtBD2Ws4OI/AAAAAAAAvoM/sIoMotgONs4bBHXx0BYiJ0149it5CSf6ACK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", Canal 3 Pinamar
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="108923" tvg-name="Canal 13 La Rioja" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
@@ -85,9 +91,6 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 
 #EXTINF:-1 tvg-id="116524" tvg-name="Azahares Radio multimedia" tvg-logo="https://lh3.googleusercontent.com/-pa7E6wFqHUQ/X8burCyCcNI/AAAAAAAA73k/bxcPtP_8N20ieC7NSjb7LUTvpCRjwj7fwCK8BGAsYHg/s0/2020-12-01.png", Azahares Radio multimedia
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="113073" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="112075" tvg-name="Señal Urbana" tvg-logo="https://lh3.googleusercontent.com/-Ef8uCc778tI/X2qHBA8TlYI/AAAAAAAA5y8/F5dD7VyHhUc1Fj296nHV9GCDUqiBqK9jwCK8BGAsYHg/s0/2020-09-22.png", Señal Urbana
 https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8?PlaylistM3UCL
