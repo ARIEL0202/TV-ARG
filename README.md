@@ -11,6 +11,12 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-id="108922" tvg-name="Canal 2 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-lNZ9Cc4kdY0/Xzgf6HFrZDI/AAAAAAAA4XI/I2DRdFu8uao3YAEAUhlLpLOVvco9P7B-wCK8BGAsYHg/s0/2020-08-15.png", Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-4TVJU.png" group-title="JU Jujuy",Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0147
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TC2.png" group-title="JU Jujuy",TC2 - 2 TV - Ciudad Perico - JU Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", AMERICA TV
 https://www.youtube.com/watch?v=2Vyx4ee2Tss
 
@@ -35,11 +41,29 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV
 https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="CD Cd Aut Bs As",Canal 22 - Web   TV - CABA TV Web - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-o3noqKpbivw/XjtBD2Ws4OI/AAAAAAAAvoM/sIoMotgONs4bBHXx0BYiJ0149it5CSf6ACK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", Canal 3 Pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="108923" tvg-name="Canal 13 La Rioja" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2LR.png" group-title="LR La Rioja",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png" group-title="SJ San Juan",Canal 79 - CTV - San Juan  TV - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0174
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLA949.png" group-title="ST Santa Fe",Play - 94.9 TV - Alcorta - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0179
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
 
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
@@ -47,8 +71,20 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112578" tvg-name="La Voz de Tucuman" tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png", La Voz de Tucuman
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-13MAX.png" group-title="CR Corrientes",13 Max - 32.1TV - Corrientes - CR Corrientes
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
+
 #EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ETC.png" group-title="CH Chubut",ETC - 4CTV - Esquel - CH Chubut
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--RSTV.png" group-title="BA Buenos Aires",RSTV - 105.1 TV - Berisso - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
 
 #EXTINF:-1 tvg-id="100598" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="https://lh3.googleusercontent.com/-Ft5Jyf_b1IM/XrYPmPh3AMI/AAAAAAAA0io/wrYd6ohXsH4M8Jd-uReILaQxfvcXnQF2wCK8BGAsYHg/s0/2020-05-08.png", Metro TV Canal 12 Tucuman
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
@@ -86,11 +122,23 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="Groups", Canal Provincial | SD
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---3FO.png" group-title="FO Formosa",FTC - 3 TV - Formosa  TV - FO Formosa
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
+
 #EXTINF:-1 tvg-id="120480" tvg-name="Play Television" tvg-logo="https://lh3.googleusercontent.com/-Xz3nAl2_28I/X_HzxCzqnwI/AAAAAAAA82Y/8xZ9Zu243YUdfYEGkUkiO2HF-PP-CDKawCK8BGAsYHg/s0/2021-01-03.jpg", Play Television
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="116524" tvg-name="Azahares Radio multimedia" tvg-logo="https://lh3.googleusercontent.com/-pa7E6wFqHUQ/X8burCyCcNI/AAAAAAAA73k/bxcPtP_8N20ieC7NSjb7LUTvpCRjwj7fwCK8BGAsYHg/s0/2020-12-01.png", Azahares Radio multimedia
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "ARGENTINA", 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="CO Cordoba",Good Radio - 101.1 TV - Jesús María - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0122
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV81.png" group-title="CO Cordoba",LV81 12 El Doce - 40.1TV - Cordoba  TV - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
 
 #EXTINF:-1 tvg-id="112075" tvg-name="Señal Urbana" tvg-logo="https://lh3.googleusercontent.com/-Ef8uCc778tI/X2qHBA8TlYI/AAAAAAAA5y8/F5dD7VyHhUc1Fj296nHV9GCDUqiBqK9jwCK8BGAsYHg/s0/2020-09-22.png", Señal Urbana
 https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8?PlaylistM3UCL
@@ -98,8 +146,20 @@ https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108686" tvg-name="T5 SATELITAL" tvg-logo="https://lh3.googleusercontent.com/-G1nwjyQoAx4/X0J_qYv5QEI/AAAAAAAA43c/Pl4yTVxgIGIDg5_axk58XwMP15X_PEi_ACK8BGAsYHg/s0/2020-08-23.png", T5 SATELITAL
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLS.png" group-title="SJ San Juan",TLS 5 Telesol - 36.1TV - San Juan  TV - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0178
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C69.png" group-title="ST Santa Fe",Canal 69 - 69 TV - Santa Eufemia - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
+
 #EXTINF:-1 tvg-id="108689" tvg-name="Litus TV" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png", Litus TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="BA Buenos Aires",TeleJunín - 2CTV - Junín - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LIGHT.png" group-title="SJ San Juan",Light - 97.3 TV - San Juan - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
 
 #EXTINF:-1 tvg-id="81555" tvg-name="Quatro TV" tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png", Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
@@ -113,14 +173,23 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="111642" tvg-name="Crossing TV" tvg-logo="https://lh3.googleusercontent.com/-cfF_P57hra8/X3pe12dKpLI/AAAAAAAA6K0/vlkxn0CuVcAn8pzB7GPAhoevDLdHmympwCK8BGAsYHg/s0/2020-10-04.png", Crossing TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
 
+#EXTINF:0,LU92 TVRionegrina Canal 10 TV General Roca Opción 2
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="108931" tvg-name="5R TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-D-8xG0f4oBQ/X1TItJKtLkI/AAAAAAAA5TM/gvEpwS7Aw20PVojHp5imn3-Ex5K0Z5ZHwCK8BGAsYHg/s0/2020-09-06.png", 5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="108930" tvg-name="Acequia " tvg-logo="https://lh3.googleusercontent.com/-tRpJwPe-0fE/X1THwnbsKlI/AAAAAAAA5S0/HW9xicJghUgH9iS7kK8UFYOTmGkdZPnTwCK8BGAsYHg/s0/2020-09-06.png", Acequia 
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILACOOL.png" group-title="BA Buenos Aires",Cool iHD - 103.7 TV - La Plata - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+
 #EXTINF:-1 tvg-id="108928" tvg-name="Cadena 103" tvg-logo="https://lh3.googleusercontent.com/-EkNjMszVjTc/X1THnKTiRPI/AAAAAAAA5Sw/nm5mnSJUroIMJ8zM_ifKOqz2NpkhMnVKACK8BGAsYHg/s0/2020-09-06.png", Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0,TV Ciudad 92.3 Resistencia
+http://www.coninfo.net:1935/chacodiapordia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108921" tvg-name="Canal 20 Villamaria" tvg-logo="https://lh3.googleusercontent.com/-DCl-5IPenOg/X1THdHqcL4I/AAAAAAAA5Ss/32o_QyaW890GkUkWkbqATUOB9p0uYcjGwCK8BGAsYHg/s0/2020-09-06.jpg", Canal 20 Villamaria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
