@@ -17,9 +17,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0147
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TC2.png" group-title="JU Jujuy",TC2 - 2 TV - Ciudad Perico - JU Jujuy
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", AMERICA TV
-https://www.youtube.com/watch?v=2Vyx4ee2Tss
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="ARGENTINA",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
