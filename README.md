@@ -20,11 +20,23 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="ARGENTINA",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", C5N
-https://www.youtube.com/watch?v=7qV_WgFREig
+#EXTINF:-1,C5N ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626941
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", LA NACIÓN
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
+
+#EXTINF:-1,El Nueve ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626927
+
+#EXTINF:-1,Telefe HD ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626917
+
+#EXTINF:-1,Encuentro ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626926
+
+#EXTINF:-1,Une TV HN
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626947
 
 #EXTINF:-1 tvg-id="81556" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television
 http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
@@ -115,6 +127,9 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine
 https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Garage TV ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626922
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="Groups", Canal Provincial | SD
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
