@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45089_Canal_26.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
+#EXTINF:-1,C5N ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626941
+
 #EXTINF:-1 tvg-id="100583" tvg-name="Canal 7 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", Canal 7 Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
 
@@ -20,29 +23,23 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="ARGENTINA",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-#EXTINF:-1,C5N ARG
-http://ipflix.click:8080/Ester/s9mdb4ez9y/626941
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="Groups", LA NACIÓN
-https://www.youtube.com/watch?v=Lnsp9CFTIh4
-
 #EXTINF:-1,El Nueve ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626927
 
 #EXTINF:-1,Telefe HD ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626917
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Groups", TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="81556" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,Encuentro ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626926
 
 #EXTINF:-1,Une TV HN
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626947
-
-#EXTINF:-1 tvg-id="81556" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television
-http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Groups", TV Publica
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", Terramia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?PlaylistM3UCL
