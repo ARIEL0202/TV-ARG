@@ -304,3 +304,34 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-id="45088" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="139178" tvg-name="AMÉRICA TUCUMÁN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="00 - Argentina", AMÉRICA TUCUMÁN HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="140114" tvg-name="TV PUBLICA - 23.2 " tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg"" group-title="00 - Argentina", TV PUBLICA - 23.2 
+http://138.117.71.80:25461/test/test/256?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="141039" tvg-name="CANAL 10 TUCUMÁN" tvg-logo="Canal10Tucuman1" group-title="00 - Argentina", CANAL 10 TUCUMÁN
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1620688844&h=35436661b634b951fde68d1fa63647b1&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="140523" tvg-name="TELÉFE TUCUMÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="00 - Argentina", TELÉFE TUCUMÁN
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1620576264~exp=1620752664~acl=/i/canal8tucuman_1@787002/*~hmac=f241b0b3f0add4f5924443eec5d7318109b0ed84c333dd7c15f5b9e83f6ddef7&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="139177" tvg-name="EL TRECE  33.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="00 - Argentina", EL TRECE  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="138973" tvg-name="NET TV 27.2" tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="00 - Argentina", NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="138145" tvg-name="CANAL ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="00 - Argentina", CANAL ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="139053" tvg-name="CANAL IP NOTICIAS   " tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg"" group-title="00 - Argentina", CANAL IP NOTICIAS   
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="140524" tvg-name="TELÉFE SALTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="00 - Argentina", TELÉFE SALTA
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1620576554~exp=1620752954~acl=/i/canal11salta_1@722934/*~hmac=2b38fa2dcd0f1a5003710697c5c2c2a1c7babf134360aa9749283f2b39245d34&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="140333" tvg-name="Canal 6 Posadas" tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="Argentina", Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+
