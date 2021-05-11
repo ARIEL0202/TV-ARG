@@ -344,3 +344,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="139633" tvg-name="ARGENTILISIMA SATELITAL" tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="00 - Argentina", ARGENTILISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="138166" tvg-name="TANGO TV " tvg-logo="https://image.roku.com/developer_channels/prod/005744bff637aa2e851abd60710e4001c53576399f8a7f04b671a639e604fd73.png" group-title="00 - Argentina", TANGO TV 
+https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8?PlaylistM3UCL
+
