@@ -340,3 +340,7 @@ https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="139633" tvg-name="ARGENTILISIMA SATELITAL" tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="00 - Argentina", ARGENTILISIMA SATELITAL
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8?PlaylistM3UCL
+
