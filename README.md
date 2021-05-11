@@ -338,3 +338,5 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141067" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Canal Nueve TV
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
