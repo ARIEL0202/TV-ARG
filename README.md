@@ -347,3 +347,8 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718
 #EXTINF:-1 tvg-id="138166" tvg-name="TANGO TV " tvg-logo="https://image.roku.com/developer_channels/prod/005744bff637aa2e851abd60710e4001c53576399f8a7f04b671a639e604fd73.png" group-title="00 - Argentina", TANGO TV 
 https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="140112" tvg-name=" A24 - 36.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png"" group-title="Sin Categoria",  A24 - 36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="140112" tvg-name=" Cronica tv" tvg-logo=""" group-title="Sin Categoria",  CRONICA TV
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8?PlaylistM3UCL
