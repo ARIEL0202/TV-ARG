@@ -352,3 +352,10 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 #EXTINF:-1 tvg-id="140112" tvg-name=" Cronica tv" tvg-logo=""" group-title="Sin Categoria",  CRONICA TV
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="138145" tvg-name="CANAL ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="00 - Argentina", CANAL ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="139177" tvg-name="EL TRECE  33.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="00 - Argentina", EL TRECE  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
