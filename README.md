@@ -359,3 +359,27 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8?Playli
 #EXTINF:-1 tvg-id="139177" tvg-name="EL TRECE  33.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="00 - Argentina", EL TRECE  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 HD ARG" tvg-logo="" group-title="Latin America",Canal 4 HD ARG
+http://ipflix.click:8080/h602/rflx42k17c/626903
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26 HD ARG" tvg-logo="" group-title="Latin America",Canal 26 HD ARG
+http://ipflix.click:8080/h602/rflx42k17c/626905
+#EXTINF:-1 tvg-id="" tvg-name="C5N ARG" tvg-logo="" group-title="Latin America",C5N ARG
+http://ipflix.click:8080/h602/rflx42k17c/626941
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe Rosario HD ARG" tvg-logo="" group-title="Latin America",Telefe Rosario HD ARG
+http://ipflix.click:8080/h602/rflx42k17c/626917
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve ARG" tvg-logo="" group-title="Latin America",El Nueve ARG
+http://ipflix.click:8080/h602/rflx42k17c/626927
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro ARG" tvg-logo="" group-title="Latin America",Encuentro ARG
+http://ipflix.click:8080/h602/rflx42k17c/626926
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cLKYxFc.png" group-title="ARGENTINA",Canal Provincial San Miguel
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="ARGENTINA",Tierra Mía 
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
