@@ -74,12 +74,6 @@ http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2LR.png" group-title="LR La Rioja",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
 
-#EXTINF:-1 tvg-logo="" group-title="La Pampa",CPE TV Santa Rosa
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
-
-#EXTINF:-1 tvg-id="108908" tvg-name="CPE TV" tvg-logo="https://lh3.googleusercontent.com/-9GTHHXgvOTw/X1TK1QfMEbI/AAAAAAAA5UE/4ulTcshU6Q8PZxoBzNKfDZvmIXleTCnwwCK8BGAsYHg/s0/2020-09-06.jpg", CPE TV
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
-
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/t4JGsbDN/cpetv.png" group-title="ARGENTINA", CPE TV
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
@@ -280,9 +274,6 @@ https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
 #EXTINF:-221 tvg-logo="https://i.postimg.cc/MKLmbNhq/telenordcorrientes.jpg" group-title="ARGENTINA", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="141067" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Canal Nueve TV
-https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 
 #EXTINF:-230 tvg-logo="https://i.postimg.cc/rwsY8WyM/nuevaimagentv.jpg" group-title="ARGENTINA", NUEVA IMAGEN TV
 http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w1749323216.m3u8
