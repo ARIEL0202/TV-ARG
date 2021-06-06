@@ -80,6 +80,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
 #EXTINF:-1 tvg-id="108908" tvg-name="CPE TV" tvg-logo="https://lh3.googleusercontent.com/-9GTHHXgvOTw/X1TK1QfMEbI/AAAAAAAA5UE/4ulTcshU6Q8PZxoBzNKfDZvmIXleTCnwwCK8BGAsYHg/s0/2020-09-06.jpg", CPE TV
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
 
+#EXTINF:-219 tvg-logo="https://i.postimg.cc/t4JGsbDN/cpetv.png" group-title="ARGENTINA", CPE TV
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
 
@@ -161,14 +164,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:0,TV Ciudad 92.3 Resistencia
 http://www.coninfo.net:1935/chacodiapordia/live/playlist.m3u8
 
+#EXTINF:-230 tvg-logo="https://i.postimg.cc/wvtxtdt2/8hXClQRl.jpg" group-title="ARGENTINA", CIUDAD TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+
 #EXTINF:-1 tvg-id="108915" tvg-name="Canal 7 Santiago del estero" tvg-logo="https://lh3.googleusercontent.com/-6FNhD9POEf4/X1TLTtdat0I/AAAAAAAA5UQ/AeQ-IN-bE1cX1De_MImRtAbUXwKwuZ2UQCK8BGAsYHg/s0/2020-09-06.jpg", Canal 7 Santiago del estero
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="108914" tvg-name="Canal 8 Catamarca" tvg-logo="https://lh3.googleusercontent.com/-RxE2ci4tVP0/X1TKGBbhd0I/AAAAAAAA5T0/da4JldeW2CwvYQEEdnRQ9leR5E7M8PPXQCK8BGAsYHg/s0/2020-09-06.jpg", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe Rosario HD ARG" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Latin America",Telefe Rosario HD ARG
 http://ipflix.click:8080/h602/rflx42k17c/626917
@@ -272,17 +275,11 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 #EXTINF:-213 tvg-logo="https://i.postimg.cc/bN24Mwbp/chacotv.png" group-title="ARGENTINA", CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
 
-#EXTINF:-219 tvg-logo="https://i.postimg.cc/t4JGsbDN/cpetv.png" group-title="ARGENTINA", CPE TV
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
-
 #EXTINF:-220 tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="ARGENTINA", CANAL 5 SANTA FÉ
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
 #EXTINF:-221 tvg-logo="https://i.postimg.cc/MKLmbNhq/telenordcorrientes.jpg" group-title="ARGENTINA", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-230 tvg-logo="https://i.postimg.cc/wvtxtdt2/8hXClQRl.jpg" group-title="ARGENTINA", CIUDAD TV
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 tvg-id="141067" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Canal Nueve TV
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
