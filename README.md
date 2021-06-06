@@ -170,6 +170,9 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe Rosario HD ARG" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Latin America",Telefe Rosario HD ARG
+http://ipflix.click:8080/h602/rflx42k17c/626917
+
 #EXTINF:-1 tvg-id="108679" tvg-name="UNIRIO" tvg-logo="https://lh3.googleusercontent.com/-SGxVbm9A4_I/X1TL8nZWUAI/AAAAAAAA5Ug/qgSnKyGCelYvrOtoaaMEO2DsDmztrpkdQCK8BGAsYHg/s0/2020-09-06.png", UNIRIO
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
 
@@ -260,9 +263,6 @@ http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
 #EXTINF:-205 tvg-logo="https://i.postimg.cc/4dx1TYbJ/telecondor.jpg" group-title="ARGENTINA", CANAL 4 TELECONDOR
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
 
-#EXTINF:-206 tvg-logo="https://i.postimg.cc/3xRwMpKz/telemaxarg.jpg" group-title="ARGENTINA", TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-
 #EXTINF:-207 tvg-logo="https://i.postimg.cc/26FYL8k4/netv.png" group-title="ARGENTINA", NET TV
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
@@ -286,9 +286,6 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 tvg-id="141067" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Canal Nueve TV
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe Rosario HD ARG" tvg-logo="" group-title="Latin America",Telefe Rosario HD ARG
-http://ipflix.click:8080/h602/rflx42k17c/626917
 
 #EXTINF:-230 tvg-logo="https://i.postimg.cc/rwsY8WyM/nuevaimagentv.jpg" group-title="ARGENTINA", NUEVA IMAGEN TV
 http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w1749323216.m3u8
