@@ -68,7 +68,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2LR.png" group-title="LR La Rioja",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+#EXTINF:-1 tvg-logo="" group-title="La Pampa",CPE TV Santa Rosa
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
