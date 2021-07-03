@@ -260,6 +260,9 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 #EXTINF:-207 tvg-logo="https://i.postimg.cc/26FYL8k4/netv.png" group-title="ARGENTINA", NET TV
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/52jYn9gs/utntv.jpg" group-title="ARGENTINA", UTNTV
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
+
 #EXTINF:-212 tvg-logo="https://i.postimg.cc/LX6r0kkb/kzo.png" group-title="ARGENTINA", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 
