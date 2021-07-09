@@ -83,7 +83,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="112578" tvg-name="La Voz de Tucuman" tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png", La Voz de Tucuman
+#EXTINF:-1 tvg-id="112578" tvg-name="La Voz de Tucuman" tvg-logo="https://lh3.googleusercontent.com/-bhuFzYt4BMY/X3T-OEDYY1I/AAAAAAAA6FU/6m3id4x5NFQg-XMoRr4230kQk8wP12M6ACK8BGAsYHg/s0/2020-09-30.png", La Voz de Tucuman   
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
