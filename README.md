@@ -8,11 +8,14 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="140112" tvg-name=" A24 - 36.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Sin Categoria",  A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="140112" tvg-name=" Cronica tv" tvg-logo="" group-title="Sin Categoria",  CRONICA TV
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="C5N ARG" tvg-logo="" group-title="Latin America",C5N ARG
-http://ipflix.click:8080/h602/rflx42k17c/626941
+#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
+https://www.youtube.com/watch?v=h0t2XAwr0ks
+
+#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
+https://www.youtube.com/watch?v=ns8-5XKA0Ww 
 
 #EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
@@ -26,8 +29,14 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM
 #EXTINF:-205 tvg-logo="https://i.postimg.cc/rwCzCgYX/c4jujuy.png" group-title="ARGENTINA", CANAL 4 JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TC2.png" group-title="JU Jujuy",TC2 - 2 TV - Ciudad Perico - JU Jujuy
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
+https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="NORTE", CNR JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="NORTE", CANAL 2 PERICO
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="ARGENTINA",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -280,8 +289,10 @@ http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w1749323216.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="NOTICIAS", CANAL 26  24.2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
@@ -289,17 +300,17 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b26
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="NOTICIAS", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS       
-https://www.youtube.com/watch?v=wHn1_QVoXGM
-
-#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
-https://www.youtube.com/watch?v=h0t2XAwr0ks
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/120px-C5N_logo.svg.png" group-title="NOTICIAS", C5N (OPCION 2)
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73227
 
-#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
-https://www.youtube.com/watch?v=ns8-5XKA0Ww 
+#EXTINF:-1 tvg-id="140112" tvg-name=" Cronica tv" tvg-logo="" group-title="Sin Categoria",  CRONICA TV
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="AMBA", CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8   
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="AMBA", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -324,9 +335,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="AMBA", LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="AMBA", CINEAR  22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
@@ -510,12 +518,6 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w141250
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="NORTE", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="NORTE", CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
@@ -771,9 +773,6 @@ https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="NORTE", TELEDIEZ PASO DE LOS LIBRES
 https://videohd.live:19360/8020/8020.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="NORTE", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="CENTRO", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
