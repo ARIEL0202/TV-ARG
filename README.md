@@ -104,11 +104,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-id="108918" tvg-name="Canal 3 Las Heras" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg", Canal 3 Las Heras
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="81557" tvg-name="TDC TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png", TDC TV Santa Fe
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cLKYxFc.png" group-title="ARGENTINA",Canal Provincial San Miguel
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="AMBA", PROVINCIAL TV
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---3FO.png" group-title="FO Formosa",FTC - 3 TV - Formosa  TV - FO Formosa
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
@@ -311,6 +308,8 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="NOTICIAS", CANAL 26  24.2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
@@ -362,6 +361,9 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cLKYxFc.png" group-title="ARGENTINA",Canal Provincial San Miguel
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
 
 
 
@@ -387,9 +389,6 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", CANAL 6 MORENO
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="AMBA", PROVINCIAL TV
-http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3riJIJamJMTaIwOIMuqH2cdOfdLQIyz9-NHeJ-pF2tQJsM-akUEu5MuYVspASJxZNQ&usqp=CAU" group-title="AMBA", CIUDAD MAGAZINE
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
