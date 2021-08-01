@@ -221,15 +221,6 @@ https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106258" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="45088" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="98885" tvg-name="Chacra TV" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="139178" tvg-name="AMÉRICA TUCUMÁN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="00 - Argentina", AMÉRICA TUCUMÁN HD
-http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
-
 #EXTINF:-204 tvg-logo="https://i.postimg.cc/G2S4T2g4/9link.png" group-title="ARGENTINA", CANAL 9 RESISTENCIA
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
 
@@ -613,6 +604,12 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/themes/cablevideo/img/canalveo.svg" group-title="CENTRO", VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
+#EXTINF:-1 tvg-id="45088" tvg-name="Canal Rural" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="98885" tvg-name="Chacra TV" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -749,3 +746,6 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="AMBA", NET TV  27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="139178" tvg-name="AMÉRICA TUCUMÁN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="00 - Argentina", AMÉRICA TUCUMÁN HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
