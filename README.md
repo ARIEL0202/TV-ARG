@@ -541,5 +541,3 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="98885" tvg-name="Chacra TV" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
