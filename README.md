@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=6ilZeMFyNE8
 #EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="139177" tvg-name="EL TRECE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="00 - Argentina", EL TRECE  
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="CENTRO", CIUDAD MAGICA TV
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
@@ -397,7 +400,26 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/VkNkBY1D/4esquel.png" group-title="ARGENTINA", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="NORTE", CANAL 3 PLUS TV  MACHAGAI CHACO
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZWPrpW2bheA/YJnMVAiFeSI/AAAAAAABCOs/fQfFM-dskRk13Y2-wumbOlfUhFOlrytLQCK8BGAsYHg/s512/2021-05-10.jpg" group-title="CENTRO", CANAL 5 ALCORTA SANTA FE
+https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="111642" tvg-name="Crossing TV" tvg-logo="https://lh3.googleusercontent.com/-cfF_P57hra8/X3pe12dKpLI/AAAAAAAA6K0/vlkxn0CuVcAn8pzB7GPAhoevDLdHmympwCK8BGAsYHg/s0/2020-10-04.png", Crossing TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CUYO", CANAL 7 MENDOZA
+https://www.youtube.com/watch?v=x8bSXVICpwQ
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", CN 24/7 NEUQUEN 
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="PATAGONIA", LM 24 RIO GALLEGOS
+https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="CENTRO", CABLEDIGITAL HIUNCA REANCO CORDOBA
+https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 
 
@@ -405,18 +427,11 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/qBxNLBLc/SPTV.jpg" group-title="ARGENTINA", SAN PEDRO TV
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="NORTE", CANAL 3 PLUS TV  MACHAGAI CHACO
-https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
-
 #EXTINF:-1 tvg-id="80300" tvg-name="Canal 7 Chubut" tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png", Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="NORTE", MILENIUM TV SALTA
 https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZWPrpW2bheA/YJnMVAiFeSI/AAAAAAABCOs/fQfFM-dskRk13Y2-wumbOlfUhFOlrytLQCK8BGAsYHg/s512/2021-05-10.jpg" group-title="CENTRO", CANAL 5 ALCORTA SANTA FE
-https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
-
 
 
 
@@ -435,12 +450,6 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="AMBA", CANAL 9  35.1
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/73231
 
-#EXTINF:-1 tvg-id="139177" tvg-name="EL TRECE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="00 - Argentina", EL TRECE  
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
 
@@ -458,9 +467,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="BA Buenos Aires",TeleJunín - 2CTV - Junín - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
-
-#EXTINF:-1 tvg-id="111642" tvg-name="Crossing TV" tvg-logo="https://lh3.googleusercontent.com/-cfF_P57hra8/X3pe12dKpLI/AAAAAAAA6K0/vlkxn0CuVcAn8pzB7GPAhoevDLdHmympwCK8BGAsYHg/s0/2020-10-04.png", Crossing TV
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="108931" tvg-name="5R TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-D-8xG0f4oBQ/X1TItJKtLkI/AAAAAAAA5TM/gvEpwS7Aw20PVojHp5imn3-Ex5K0Z5ZHwCK8BGAsYHg/s0/2020-09-06.png", 5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
@@ -501,9 +507,6 @@ http://inliveserver.com:1935/8386/8386/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3riJIJamJMTaIwOIMuqH2cdOfdLQIyz9-NHeJ-pF2tQJsM-akUEu5MuYVspASJxZNQ&usqp=CAU" group-title="AMBA", CIUDAD MAGAZINE
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-#EXTINF:-1 group-title="CUYO", CANAL 7 MENDOZA
-https://www.youtube.com/watch?v=q0lx61HC5Ug
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="CENTRO", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -515,9 +518,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0282
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="NORTE", T5 CORRIENTES
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8  
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", CN 24/7 NEUQUEN 
-https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="CUYO", CANAL 13 SAN LUIS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
@@ -540,18 +540,11 @@ https://inliveserver.com:1936/9504/9504/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="PAMPEANA", CANAL 32 SPTV SAN PEDRO
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="PATAGONIA", LM 24 RIO GALLEGOS
-https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="CENTRO", TRIBU TV LAS VARILLAS CORDOBA
 https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="CUYO", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
-
-#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="CENTRO", CABLEDIGITAL HIUNCA REANCO CORDOBA
-https://vivo.solumedia.com:19360/huinca/huinca.m3u8
-
 
 
 
