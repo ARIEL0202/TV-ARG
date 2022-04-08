@@ -1,53 +1,36 @@
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC Sports Local (M)(720)" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png" group-title="LA-ARGENTINA",ARG-TYC Sports Local (M)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22127
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TyC Sports Local (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png" group-title="LA-ARGENTINA",ARG-TyC Sports Local (X)(SD)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59813
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="ARG-DeporTV (X)(720)" tvg-logo="https://1.bp.blogspot.com/-rIvH1wjUmAI/X2QIAOcBnAI/AAAAAAAABVg/AgFaLGNcS5EGy3Oh-jo_KDvnSXM8uwdVACLcBGAsYHQ/w200-h200/16%2BDeport%2Btv.png" group-title="LA-ARGENTINA",ARG-DeporTV (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59796
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ARG-Direct TV Sports (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-p5tjezIv6b0/X2QH_mOIY2I/AAAAAAAABVc/SNui82k4RDQXhe0SxmN1Qj04uER-9KDRACLcBGAsYHQ/w200-h200/15%2BDirectv%2BSports%2BARG.png" group-title="LA-ARGENTINA",ARG-Direct TV Sports (TV)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59797
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="ARG-TNT Sports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="LA-ARGENTINA",ARG-TNT Sports (M)(1080)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/3180
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG-Espn (Local)(M)" tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png" group-title="LA-ARGENTINA",ARG-Espn (Local)(M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22112
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ARG-Espn 1 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png" group-title="LA-ARGENTINA",ARG-Espn 1 (TV)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59801
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG-Espn 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Wfwx61RqKUA/X2QH-aBKXDI/AAAAAAAABVM/kdBidh7wITgIgLWEvbqEFs5e9N95YGqWwCLcBGAsYHQ/w200-h200/11%2BEspn%2B2.png" group-title="LA-ARGENTINA",ARG-Espn 2 (TV)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59802
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ARG-Espn 3 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ebsBmwjM2-g/X2QH-To3PmI/AAAAAAAABVQ/hfFa_3-baosgsuD9FWKAhNjyx-Fdl61_QCLcBGAsYHQ/w200-h200/12%2BEspn%2B3.png" group-title="LA-ARGENTINA",ARG-Espn 3 (M)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59803
 #EXTINF:-1 tvg-id="ESPNPlus.ar" tvg-name="ARG-Espn + (M)" tvg-logo="https://1.bp.blogspot.com/-ro1aKxkY6Xc/X2QH9kJ8m9I/AAAAAAAABVE/kgI9hT3ECTIyw9veQ7RzjWHA6DjTeK11ACLcBGAsYHQ/w200-h200/09%2BEspn%2B%252B.png" group-title="LA-ARGENTINA",ARG-Espn + (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22130
-#EXTINF:-1 tvg-id="ESPNPlusLatinAmerica.pa" tvg-name="ARG-Espn + (X)(720)" tvg-logo="https://1.bp.blogspot.com/-ro1aKxkY6Xc/X2QH9kJ8m9I/AAAAAAAABVE/kgI9hT3ECTIyw9veQ7RzjWHA6DjTeK11ACLcBGAsYHQ/w200-h200/09%2BEspn%2B%252B.png" group-title="LA-ARGENTINA",ARG-Espn + (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59804
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG-Fox Sports Local (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-uwpNNXbfFdc/X2QH9MMYNVI/AAAAAAAABU4/OmbOOq8VIkcRNLc5zovf9u959cZgUbP8wCLcBGAsYHQ/w200-h200/06%2BFox%2BSports%2BARG.png" group-title="LA-ARGENTINA",ARG-Fox Sports Local (TV)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59808
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG-Fox Sports Premium (Local)(M)" tvg-logo="https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png" group-title="LA-ARGENTINA",ARG-Fox Sports Premium (Local)(M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22113
-#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG-FOX Sports Premium (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png" group-title="LA-ARGENTINA",ARG-FOX Sports Premium (TV)(1080)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59809
 #EXTINF:-1 tvg-id="" tvg-name="ARG-Garage TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ufbbBvQT11I/Xay_WAx3ycI/AAAAAAAAAjo/omYCKR_Id4sApuUalehz7TmuKYUTgDavwCLcBGAsYHQ/s200/10.png" group-title="LA-ARGENTINA",ARG-Garage TV (M)(1080)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1531
+
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="ARG-26TV (M)" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png" group-title="LA-ARGENTINA",ARG-26TV (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22091
 #EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America (M)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="LA-ARGENTINA",ARG-America (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22094
-#EXTINF:-1 tvg-id="MTVBase.za" tvg-name="ARG-America TV (M)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="LA-ARGENTINA",ARG-America TV (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22089
-#EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America TV (X)(720)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="LA-ARGENTINA",ARG-America TV (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116192
-#EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America TV (X)(720)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="LA-ARGENTINA",ARG-America TV (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116193
 #EXTINF:-1 tvg-id="Argentinísima.ar" tvg-name="ARG-Argentinisima (M)" tvg-logo="https://1.bp.blogspot.com/-sLB3y_I89Q4/X2QILWHb8FI/AAAAAAAABW4/-NRRBfBPs1wcN1NZYAWAdaxJCpC7jM-fACLcBGAsYHQ/w200-h200/38%2BArgentinisima.png" group-title="LA-ARGENTINA",ARG-Argentinisima (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22096
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG-C5N (M)" tvg-logo="https://1.bp.blogspot.com/-2sEle1n_QKI/X2QIFdFmlDI/AAAAAAAABWI/iVqKW-PZy9Q-qu4S6-B2q98vEMnl3h9YgCLcBGAsYHQ/w200-h200/26%2BC5n.png" group-title="LA-ARGENTINA",ARG-C5N (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22097
-#EXTINF:-1 tvg-id="Canal21.ar" tvg-name="ARG-Canal 21 (M)" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png" group-title="LA-ARGENTINA",ARG-Canal 21 (M)
+#EXTINF:-1 tvg-id="Canal21.ar" tvg-name="ARG-Canal Orbe 21 (M)" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png" group-title="LA-ARGENTINA",ARG-Canal Orbe 21 
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22099
-#EXTINF:-1 tvg-id="" tvg-name="ARG-Canal 21 (X)(720)" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png" group-title="LA-ARGENTINA",ARG-Canal 21 (X)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Canal 21" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png" group-title="LA-ARGENTINA",ARG-Canal 21 
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116194
-#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="ARG-Canal 26 (M)" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png" group-title="LA-ARGENTINA",ARG-Canal 26 (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22100
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="ARG-Canal 26 (X)(720)" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png" group-title="LA-ARGENTINA",ARG-Canal 26 (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116195
 #EXTINF:-1 tvg-id="" tvg-name="ARG-Canal De La Ciudad (M)" tvg-logo="" group-title="LA-ARGENTINA",ARG-Canal De La Ciudad (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22102
 #EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="https://1.bp.blogspot.com/-N2gNoaFX1aY/X2Qhivn6MvI/AAAAAAAABYk/MuUMRchiueQp4L5ia5OIQuyD2_sV-panQCLcBGAsYHQ/w200-h200/41%2BMegazine.png" group-title="LA-ARGENTINA",ARG-Ciudad Magazine (M)
@@ -56,48 +39,22 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22104
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22108
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="ARG-DW (M)" tvg-logo="https://1.bp.blogspot.com/-qmlkxBhiOP0/X2QIJyqy78I/AAAAAAAABWs/IvIr0daASSAdYPZ1DUPugtxyb66ZcqD2ACLcBGAsYHQ/w200-h200/35%2BDw%2BARG.png" group-title="LA-ARGENTINA",ARG-DW (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22110
-#EXTINF:-1 tvg-id="TelenovelaChannel.ph" tvg-name="ARG-El Nueve (M)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="LA-ARGENTINA",ARG-El Nueve (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22093
 #EXTINF:-1 tvg-id="ABSCBNSportsAction.sa" tvg-name="ARG-El Nueve (M)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="LA-ARGENTINA",ARG-El Nueve (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22101
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG-El Nueve (X)(720)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="LA-ARGENTINA",ARG-El Nueve (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116197
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG-El Nueve (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="LA-ARGENTINA",ARG-El Nueve (X)(SD)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116198
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (M)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="LA-ARGENTINA",ARG-El Trece (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22098
-#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="LA-ARGENTINA",ARG-El Trece (TV)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116199
-#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (X)(720)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="LA-ARGENTINA",ARG-El Trece (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116200
-#EXTINF:-1 tvg-id="BlueAntExtreme.th" tvg-name="ARG-LN (M)" tvg-logo="https://1.bp.blogspot.com/-GKPfx1rugzI/X2QIJbpPN8I/AAAAAAAABWo/XXuxc9Ycoz8z4BKk2qNP0LkHVKTvDX9ZgCLcBGAsYHQ/w200-h200/34%2BLN%2BARG.png" group-title="LA-ARGENTINA",ARG-LN (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22115
 #EXTINF:-1 tvg-id="Metro.ar" tvg-name="ARG-Metro (M)" tvg-logo="https://1.bp.blogspot.com/-GS7xouePKvg/X2QII3XyecI/AAAAAAAABWk/50zjjYoO71UOFccD2cTQ6_82oEvXR3kugCLcBGAsYHQ/w200-h200/33%2BMetro%2Btv..png" group-title="LA-ARGENTINA",ARG-Metro (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22116
 #EXTINF:-1 tvg-id="Quiero.ar" tvg-name="ARG-Quiero Musica (M)" tvg-logo="https://1.bp.blogspot.com/-WGrML1C4ceo/X2QH8ZkW5LI/AAAAAAAABUw/erlsfaq9E3kh0ScziE49lzSvfy7CeEXpACLcBGAsYHQ/w200-h200/04%2BQuiero%2Bm%25C3%25BAsica.png" group-title="LA-ARGENTINA",ARG-Quiero Musica (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22118
-#EXTINF:-1 tvg-id="ElRural.ar" tvg-name="ARG-Rural (M)" tvg-logo="https://1.bp.blogspot.com/-jshSuUx7P_A/X2QIIa7rhiI/AAAAAAAABWg/CdrTh3XOL-4nKLLctio21mN1Qjh4yF04QCLcBGAsYHQ/w200-h200/32%2BCanal%2Brural.png" group-title="LA-ARGENTINA",ARG-Rural (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22119
-#EXTINF:-1 tvg-id="TvSenado.br" tvg-name="ARG-Senado (M)" tvg-logo="https://1.bp.blogspot.com/-XZW0ELWscfw/X2QIH66lbBI/AAAAAAAABWc/Hk7hu0x98bMcjxy2ajdRtB8uiZFETs9TwCLcBGAsYHQ/w200-h200/31%2BSenado%2BARG.png" group-title="LA-ARGENTINA",ARG-Senado (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22120
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="LA-ARGENTINA",ARG-Telefe (M)(SD)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22121
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe (X)(720)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="LA-ARGENTINA",ARG-Telefe (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116201
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="LA-ARGENTINA",ARG-Telefe (X)(1080)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/101841
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe Rosario (X)(720)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="LA-ARGENTINA",ARG-Telefe Rosario (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/101842
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="ARG-Telemax (M)" tvg-logo="https://1.bp.blogspot.com/-b5EaQpQreyA/X2QIHSdvIvI/AAAAAAAABWY/FKJdXlw90A8mN132DcKaoO3Hi7Yv1z5LQCLcBGAsYHQ/w200-h200/30%2BTelemax.png" group-title="LA-ARGENTINA",ARG-Telemax (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22122
 #EXTINF:-1 tvg-id="" tvg-name="ARG-TN (M)" tvg-logo="https://1.bp.blogspot.com/-6jXNBd6g0bc/X2QIDcTZTSI/AAAAAAAABV4/HQ-Jxwd3OhsI6LdXkUeZOU4iHwjizZrdQCLcBGAsYHQ/w200-h200/22%2BTodo%2Bnoticia.png" group-title="LA-ARGENTINA",ARG-TN (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22124
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="ARG-TNT Sports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="LA-ARGENTINA",ARG-TNT Sports (M)(1080)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/3180
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG-TV Publica (M)" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png" group-title="LA-ARGENTINA",ARG-TV Publica (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22125
-#EXTINF:-1 tvg-id="" tvg-name="ARG-TV Publica (X)(720)" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png" group-title="LA-ARGENTINA",ARG-TV Publica (X)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/116203
 #EXTINF:-1 tvg-id="" tvg-name="ARG-TV5 (M)" tvg-logo="https://1.bp.blogspot.com/-Tpkec48hjwA/X2QIG6J2HRI/AAAAAAAABWU/yKzkfxy1A4UwmBhd3arRzEma8UKwxryYQCLcBGAsYHQ/w200-h200/29%2BTv%2B5%2BARG.png" group-title="LA-ARGENTINA",ARG-TV5 (M)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/22126
 #EXTINF:-1 tvg-id="" tvg-name="ARG-Volver (M)" tvg-logo="https://1.bp.blogspot.com/-hK7dPTyre0Y/X2QID2W4DOI/AAAAAAAABV8/Ns9rVmt8zRgGlWt1QTBMTJKz9qG3C6_wACLcBGAsYHQ/w200-h200/23%2BVolver.png" group-title="LA-ARGENTINA",ARG-Volver (M)
