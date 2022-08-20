@@ -22,7 +22,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074
 #EXTINF:-1 tvg-id="138145" tvg-name="CANAL ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="00 - Argentina", CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,chaco dxd tv
+#EXTINF:-1,chaco dxd tv   
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 tvg-id="80293" tvg-name="Terramia TV" tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", Terramia TV
