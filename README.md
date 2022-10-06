@@ -7,6 +7,9 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="264" tvg-name="Canal 7 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", Canal 7 Jujuy | AR
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-205 tvg-logo="https://i.postimg.cc/rwCzCgYX/c4jujuy.png" group-title="ARGENTINA", CANAL 4 JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
 
