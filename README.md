@@ -1,40 +1,25 @@
-
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="ARGENTINA",TN
+http://azplay.ddns.me:33200/por/por123/2341
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.postimg.cc/4dpq8Y83/A24.png" group-title="ARGENTINA",A24
 http://azplay.ddns.me:33200/por/por123/2339
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+ La Nación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/300px-LN%2B.png" group-title="ARGENTINA",LN+ La Nación
 http://azplay.ddns.me:33200/por/por123/2344
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="ARGENTINA",TN
-http://azplay.ddns.me:33200/por/por123/2341
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica" tvg-logo="https://i.postimg.cc/j2y59kBz/cro.jpg" group-title="ARGENTINA",Crónica
 http://azplay.ddns.me:33200/por/por123/2342
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",C5N
 http://azplay.ddns.me:33200/por/por123/2340
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America TV
 http://azplay.ddns.me:33200/por/por123/6989
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA",America TV HD
-http://azplay.ddns.me:33200/por/por123/2345
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" group-title="ARGENTINA",El Nueve
 http://azplay.ddns.me:33200/por/por123/2346
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve HD" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" group-title="ARGENTINA",El Nueve HD
-http://azplay.ddns.me:33200/por/por123/6987
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA",El Trece
 http://azplay.ddns.me:33200/por/por123/6988
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA",El Trece HD
-http://azplay.ddns.me:33200/por/por123/2347
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE
 http://azplay.ddns.me:33200/por/por123/6986
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE HD
-http://azplay.ddns.me:33200/por/por123/2348
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="ARGENTINA",TV Publica
 http://azplay.ddns.me:33200/por/por123/166
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica (Android)" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="ARGENTINA",TV Publica (Android)
-https://g5.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="ARGENTINA",TV Publica HD
-http://azplay.ddns.me:33200/por/por123/167
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD (Android)" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="ARGENTINA",TV Publica HD (Android)
-https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="CineAR" tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="ARGENTINA",CineAR
 http://azplay.ddns.me:33200/por/por123/2349
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="ARGENTINA",Encuentro
